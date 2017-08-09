@@ -11,7 +11,7 @@ import {
 export default class Demo5 extends Component {
   render() {
     return (
-      <Tabbar/>
+      <HomeStack/>
     );
   }
 }
